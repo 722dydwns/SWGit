@@ -14,7 +14,9 @@ public class A {
 
 		//devB로 변경
 		System.out.println("Change by devB");
-		
+
+		//devC로 변경
+		System.out.println("Change by devC");
 		
 	}
 
